@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas!
 #### Atuo com Garantia de Qualidade de Software.
-![Atuo com Garantia de Qualidade de Software.](https://tech.rochester.edu/wp-content/uploads/quality-assurance-banner.png)
+![Atuo com Garantia de Qualidade de Software.](https://qau.unn.edu.ng/wp-content/uploads/sites/92/2017/02/quality-assurance-banner-quality-assurance.jpg)
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria everis Brasil, no cliente Itaú. 
 
