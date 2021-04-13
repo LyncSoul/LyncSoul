@@ -2,7 +2,7 @@
 #### Atuo com Garantia de Qualidade de Software.
 ![Atuo com Garantia de Qualidade de Software.](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
-Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade. Atuo na consultoria everis Brasil, no cliente Itaú. 
+Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria everis Brasil, no cliente Itaú. 
 
 Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
 
