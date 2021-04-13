@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas!
 #### Atuo com Garantia de Qualidade de Software.
-![Atuo com Garantia de Qualidade de Software.](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
+![Atuo com Garantia de Qualidade de Software.](https://repository-images.githubusercontent.com/278296523/56b51480-c607-11ea-9364-1833e8a27608)
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria everis Brasil, no cliente Itaú. 
 
