@@ -6,8 +6,8 @@ Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais 
 
 Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
 
-- 🔭 I’m currently working on Garantia de Qualidade de Software 
-- 🌱 I’m currently learning Desenvolvimento Full-Stack  
+- 🔭 I’m currently working on Garantia de Qualidade de Software.
+- 🌱 I’m currently learning Desenvolvimento Full-Stack.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
 - ⚡ Fun fact: Desenho super bem e escrevo de tudo sobre tudo. 
 
