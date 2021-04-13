@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Lucas 
+### Hi there 👋, my name is Lucas.
 #### Atuo com Garantia de Qualidade de Software.
 ![Atuo com Garantia de Qualidade de Software.](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
