@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas!
 #### Atuo com Garantia de Qualidade de Software.
-![Atuo com Garantia de Qualidade de Software.](https://qau.unn.edu.ng/wp-content/uploads/sites/92/2017/02/quality-assurance-banner-quality-assurance.jpg)
+![Atuo com Garantia de Qualidade de Software.](https://www.bexus.com.br/images/mobile1.png)
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil. Estudo Desenvolvimento Mobile.
 
