@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Lucas!
-#### Atuo com Garantia de Qualidade de Software.
+#### Atuo com Garantia de Qualidade de Software. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
 ![Atuo com Garantia de Qualidade de Software.](https://www.bexus.com.br/images/mobile1.png)
 
-Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil. Estudo Desenvolvimento Mobile.
+Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil.
 
 Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
 
