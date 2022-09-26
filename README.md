@@ -1,13 +1,14 @@
-### Hi there 👋, meu nome é Lucas!
+<h1 align="center">Hi 👋, I'm Lucas Souza</h1>
+<h3 align="center">A Back-End Engineer (Java | Spring Boot) from Brazil</h3>
 
-Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-end, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
+Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-End, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android), também.
 
-Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil.
+Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico. Atuo na consultoria Accenture Brasil.
 
 Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
 
-- 🔭 I’m currently working on Garantia de Qualidade de Software and Desenvolvimento Back-end (Java/Kotlin).
-- 🌱 I’m currently learning Desenvolvimento Full Stack.
+- 🔭 I’m currently working on Software Quality Assurance and Back-End development (Java/Kotlin).
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
 - ⚡ Fun fact: desenho super bem e escrevo de tudo sobre tudo. 
 
@@ -20,4 +21,8 @@ Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JI
 src='https://www.svgrepo.com/show/303388/java-4-logo.svg' alt='Java' height='40'>](https://www.svgrepo.com/show/303388/java-4-logo.svg) [<img 
 src='https://icones.pro/wp-content/uploads/2021/04/icone-android-vert.png' alt='Android' height='40'>](https://icones.pro/wp-content/uploads/2021/04/icone-android-vert.png)<HR>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyncSoul&show_icons=true&theme=merko&hide=commits,contribs&show_icons=true)
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LyncSoul&show_icons=true&locale=en&layout=compact" alt="LyncSoul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LyncSoul&" alt="LyncSoul" /></p>
