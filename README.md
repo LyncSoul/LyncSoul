@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Souza</h1>
 <h3 align="center">A Back-End Engineer (Java | Spring Boot) from Brazil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LyncSoul&label=Profile%20views&color=0e75b6&style=flat" alt="LyncSoul" /> </p>
+
 Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-End, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android), também.
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico. Atuo na consultoria Accenture Brasil.
