@@ -1,12 +1,11 @@
-### Hi there 👋, my name is Lucas!
-#### Atuo com Garantia de Qualidade de Software. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
-![Atuo com Garantia de Qualidade de Software.](https://www.bexus.com.br/images/mobile1.png)
+### Hi there 👋, meu nome é Lucas!
+#### Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-end, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil.
 
 Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
 
-- 🔭 I’m currently working on Garantia de Qualidade de Software.
+- 🔭 I’m currently working on Garantia de Qualidade de Software and Desenvolvimento Back-end (Java/Kotlin).
 - 🌱 I’m currently learning Desenvolvimento Full Stack.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
 - ⚡ Fun fact: desenho super bem e escrevo de tudo sobre tudo. 
