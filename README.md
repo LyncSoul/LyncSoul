@@ -1,5 +1,6 @@
 ### Hi there 👋, meu nome é Lucas!
-#### Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-end, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
+
+Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-end, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android).
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico em Qualidade de Software. Atuo na consultoria Accenture Brasil.
 
