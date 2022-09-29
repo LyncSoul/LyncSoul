@@ -15,7 +15,7 @@ Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JI
 - ⚡ Fun fact: desenho super bem e escrevo de tudo sobre tudo. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LyncSoul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-de-macedo-souza/)
+[<img src='https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png' alt='github' height='40'>](https://github.com/LyncSoul)  [<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-originale.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-de-macedo-souza/)
 
 <h3 align="left">Languages and Tools:</h3>
 
