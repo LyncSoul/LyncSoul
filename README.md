@@ -7,7 +7,7 @@ Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-End, com stack
 
 Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico. Atuo na consultoria Accenture Brasil.
 
-Skills: API / MOBILE / INTERNET / PERFORMANCE / JENKINS / BDD / TDD / AGILE / JIRA / SILK / JAVA / RUBY
+Skills: API / MOBILE / WEB / CLOUD COMPUTING / BDD / DDD / TDD / AGILE / JIRA / SILK / DEVOPS / JAVA / KOTLIN / OBSERVABILITY
 
 - 🔭 I’m currently working on Software Quality Assurance and Back-End development (Java/Kotlin).
 - 🌱 I’m currently learning Full Stack Development.
