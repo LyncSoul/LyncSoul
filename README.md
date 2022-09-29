@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Souza</h1>
-<h3 align="center">A Back-End Engineer (Java | Spring Boot) from Brazil</h3>
+<h3 align="center">A Back-End Engineer (Java | Spring Boot) from <img src='https://cdn-icons-png.flaticon.com/512/3909/3909370.png' alt='Brasil' height='40' align='center'></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LyncSoul&label=Profile%20views&color=0e75b6&style=flat" alt="LyncSoul" /> </p>
 
