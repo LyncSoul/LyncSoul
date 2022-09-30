@@ -12,7 +12,7 @@ Skills: API / MOBILE / WEB / CLOUD COMPUTING / AGILE / JIRA / SILK / DEVOPS / JA
 - 🔭 I'm currently working with Software Quality Assurance and Back-End Development (Java/Kotlin).
 - 🌱 I'm currently learning Mobile Development (Android).
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
-- ⚡ Fun fact: I draw super well and write everything about everything. 
+- ⚡ Hobby: I draw super well and write everything about everything. 
 
 [<img src='https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png' alt='github' height='40'>](https://github.com/LyncSoul)  [<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-originale.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-de-macedo-souza/)
 
