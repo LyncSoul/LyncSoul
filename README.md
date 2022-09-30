@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LyncSoul&label=Profile%20views&color=0e75b6&style=flat" alt="LyncSoul" /> </p>
 
-Atuo com Garantia de Qualidade de Software e Desenvolvimento Back-End, com stack Java/Kotlin. Meu foco atual tem sido estudar Desenvolvimento Mobile (Android), também.
+I work with Software Quality Assurance and Back-End Development, with Java/Kotlin stack. My current focus has been studying Mobile Development (Android), too.
 
-Sou apaixonado por tecnologia, ando me reinventando para melhorar cada vez mais meu nível técnico. Atuo na consultoria Accenture Brasil.
+I'm passionate about technology, I've been reinventing myself to improve my technical level more and more. I work at Accenture Brazil consultancy.
 
 Skills: API / MOBILE / WEB / CLOUD COMPUTING / AGILE / JIRA / SILK / DEVOPS / JAVA / KOTLIN / OBSERVABILITY
 
-- 🔭 I’m currently working on Software Quality Assurance and Back-End development (Java/Kotlin).
-- 🌱 I’m currently learning Full Stack Development.
+- 🔭 I'm currently working with Software Quality Assurance and Back-End Development (Java/Kotlin).
+- 🌱 I'm currently learning Mobile Development (Android).
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
-- ⚡ Fun fact: desenho super bem e escrevo de tudo sobre tudo. 
-
+- ⚡ Fun fact: I draw super well and write everything about everything. 
 
 [<img src='https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png' alt='github' height='40'>](https://github.com/LyncSoul)  [<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-originale.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-de-macedo-souza/)
 
@@ -27,7 +26,7 @@ src='https://icones.pro/wp-content/uploads/2021/04/icone-android-vert.png' alt='
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><HR>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 <br>
 
