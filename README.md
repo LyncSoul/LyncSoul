@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lucas Souza</h1>
-<h3 align="center">A Back-End Engineer (Java | Spring Boot) and Test Automation Eng Analyst/QA from  <img src='https://cdn-icons-png.flaticon.com/512/3909/3909370.png' alt='Brasil' height='40' align='center'> </h3>
+<h3 align="center">A Back-End Engineer (Java/Kotlin | Spring Boot) from  <img src='https://cdn-icons-png.flaticon.com/512/3909/3909370.png' alt='Brasil' height='40' align='center'> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LyncSoul&label=Profile%20views&color=0e75b6&style=flat" alt="LyncSoul" /> </p>
 
-I work with Software Quality Assurance and Back-End Development, with Java/Kotlin stack. My current focus has been studying Mobile Development (Android), too.
+I work with Back-End Development, with Java/Kotlin stack. My current focus has been studying Mobile Development (Android), too.
 
 I'm passionate about technology, I've been reinventing myself to improve my technical level more and more. I work at Accenture Brazil consultancy.
 
 Skills: API / MOBILE / WEB / CLOUD COMPUTING / AGILE / JIRA / SILK / DEVOPS / JAVA / KOTLIN / OBSERVABILITY
 
-- 🔭 I'm currently working with Software Quality Assurance and Back-End Development (Java/Kotlin).
+- 🔭 I'm currently working with Back-End Development (Java/Kotlin).
 - 🌱 I'm currently learning Mobile Development (Android).
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lucas-de-macedo-souza/ 
 - ⚡ Hobby: I draw super well and write everything about everything. 
