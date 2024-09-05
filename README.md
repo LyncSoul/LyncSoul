@@ -5,7 +5,7 @@
 
 I work with Back-End Development, with Java/Kotlin stack. My current focus has been studying Mobile Development (Android), too.
 
-I'm passionate about technology, I've been reinventing myself to improve my technical level more and more. I work at Accenture Brazil consultancy.
+I'm passionate about technology, I've been reinventing myself to improve my technical level more and more.
 
 Skills: API / MOBILE / WEB / CLOUD COMPUTING / AGILE / JIRA / SILK / DEVOPS / JAVA / KOTLIN / OBSERVABILITY
 
